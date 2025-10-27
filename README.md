@@ -1,11 +1,19 @@
 # QuizApp React (OpenTDB)
-This is a minimal React + Vite quiz app that fetches questions from OpenTDB (https://opentdb.com/). Features:
-- Simple login (name only)
-- Fetch questions from OpenTDB API
-- Global timer
-- Single question per page; selecting an option moves to the next question
-- Resume quiz after closing the browser using localStorage
-- Result screen showing total, answered, correct, incorrect
+Ini adalah aplikasi kuis sederhana berbasis React + Vite yang mengambil pertanyaan dari OpenTDB (https://opentdb.com/
+).
+Fitur-fitur yang tersedia:
+
+Login sederhana (hanya memasukkan nama)
+
+Mengambil pertanyaan dari OpenTDB API
+
+Timer global
+
+Menampilkan satu pertanyaan per halaman; memilih jawaban langsung berpindah ke pertanyaan berikutnya
+
+Dapat melanjutkan kuis setelah menutup browser menggunakan localStorage
+
+Halaman hasil yang menampilkan total soal, jumlah dijawab, benar, dan salah
 
 ## How to run
 1. Install dependencies:
