@@ -17,13 +17,9 @@ Halaman hasil yang menampilkan total soal, jumlah dijawab, benar, dan salah
 
 ## How to run
 1. Install dependencies:
-```
 npm install
-```
 2. Run dev server:
-```
 npm run dev
-```
 3. Open the URL shown by Vite (usually http://localhost:5173).
 
 No custom backend or API is required — the app uses the public OpenTDB API directly.
